@@ -1,0 +1,28 @@
+body{
+    background-image: url("./images1/BG.svg");
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 0px;
+    font-family: 'Zen Maru Gothic', sans-serif !important;
+    width: 100%;
+}
+
+@media screen and (max-width:580px) {
+    .body{
+        background-image: url("./images1/mobileBG.png") !important;
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 120px !important;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .body{
+        width: 90%;
+    }
+}
+

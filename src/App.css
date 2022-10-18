@@ -1,0 +1,530 @@
+@media screen and (max-width: 580px) {
+  .pic{
+    width: 350px;
+    
+  }
+
+  .pw{
+    display: none;
+    margin: 50px;
+  }
+
+  .ourVisionTitle{
+    margin-left: -25px !important;
+    width: 70%;
+    padding-bottom: 10px;
+  }
+
+  
+
+  .visionPic{
+    display: none;
+    margin-right: -100px !important;
+  }
+
+  .couplePic{
+    margin-top: 100px;
+
+  }
+
+  .navbar{
+    background-color: transparent !important;
+  }
+
+  .navbar-brand{
+    width: 100px !important;
+  }
+
+  .nav-link{
+    width: 200px !important;
+  }
+  .nav-item{
+    align-self: flex-end;
+  }
+
+  
+
+ #vision{
+   width: 100% !important;
+   padding-right: 2%;
+   margin-top: -90px;
+ }
+
+ .ourVisionText{
+ }
+
+  #howItWorks{
+  }
+  #roadmap{
+    margin-top: 50px;
+  }
+
+  .roadmapPic{
+    
+    display:none;
+  }
+
+  .roadmapMobile{
+    width: 90%;
+  }
+
+  .roadmapTitle{
+  }
+
+  
+
+  .howItWorksTitle{
+  }
+
+  .title{
+    width:60% !important;
+  }
+
+  .communityTitle{
+    width: 60% !important;
+  }
+
+  .communityPic{
+    padding-bottom: 100px;
+  }
+
+
+  #community{
+    margin-top: 5px;
+  }
+  .communityRow{
+    padding-left: 5% !important;
+  }
+
+  .communityLogo{
+    height: 50px;
+    margin-left: -30px;
+  }
+
+ 
+
+  #howItWorkss{
+    margin-top: -13%;
+  }
+
+  .howItWorksText{
+    font-size: 11pt !important;
+    margin-top: 100px !important;
+    margin-bottom:200px;
+  }
+
+  
+
+  .modal-content{
+    padding-left: 3%;
+  }
+
+
+  .modal-header{
+    width: 80%;
+  }
+  .notes{
+    margin-left: -30px !important;
+    padding-top: 80px;
+  }
+
+  .notesList{
+    font-size: 9pt !important;
+    margin-right: -10px !important;
+    margin-left: 5px !important;
+  }
+
+  .notesStars{
+    margin-left: 20px !important;
+    font-size: 9pt !important;
+  }
+
+  .clock{
+    margin-left: -20px !important;
+    height: 100px;
+    
+  }
+
+  .clock2{
+    margin-left: -20px !important;
+  }
+
+  .clockSentence{
+    font-size: 17pt !important;
+      }
+
+  .date{
+    width:100%;
+    margin-top: 1px !important;
+  }
+
+  .walletAddress{
+    font-size: 10pt !important;
+  }
+
+  .days{
+    margin-left: -8px !important;
+    font-size: 20pt !important;
+  }
+
+  .hours{
+    margin-left: -10px;
+    font-size: 20pt !important;
+  }
+
+  .minutes{
+    position: relative;
+    margin-left: -8px !important;
+    font-size: 20pt !important;
+  }
+
+  .notesTitle{
+    width: 60%;
+    height: 100%;
+    margin-top: -100px;
+  }
+  .sectionText{
+    font-size: 16px !important;
+  }
+
+ 
+
+  .eps{
+    width:100%;
+    margin-left: 10%;
+  }
+
+  .btn-close{
+    position: absolute;
+    left: 75%;
+  }
+
+  .availableQuant{
+    font-size: 30pt !important;
+    margin-left: -5% !important;
+  }
+
+  .oneHunBill{
+    margin-top: -30px !important;
+  }
+
+  .oneHundredBillion{
+    font-size: 30pt !important;
+  }
+  
+  .howItWorksPic{
+    width: 95%;
+    margin-top:100px;
+  }
+
+  .howItWorkssTitle{
+    display: none;
+  }
+
+  .howItWorkssPic{
+    display: none;
+    padding-right: -20px !important;
+    margin-right: -20px !important;
+  }
+
+  .howItWorkssText{
+    width: 200%;
+  }
+
+  .howItWorkssPic2{
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: -100px;
+  }
+
+  .navbar-collapse.collapse.show{
+    /*background: url("./images1/menuBubble.png") !important;*/
+    background: linear-gradient(180deg,rgba(255,255,255,0.9) 60% , rgba(255,255,255,0)) !important;
+    
+    background-size: cover !important;
+    padding-bottom: 100px;
+  }
+
+  .pwMobile{
+    display: initial !important;
+  }
+
+  #footer{
+    padding-right: 0px !important;
+    font-size: 10pt !important;
+  }
+
+  .footerLogo{
+    width: 64%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  .footerTitle{
+    font-size: 12pt !important;
+    margin-bottom: 15px !important;
+  }
+
+  .link{
+    margin-bottom: 5px !important;
+  }
+
+  .copyrightSentence{
+    font-size: 8pt !important;
+    margin-left: -40px;
+  }
+
+  .layout{
+    margin-right: -20px;
+  }
+
+  .socialMedia{
+    margin-right: -10px;
+  }
+}
+
+@media  screen and (min-width:580px) {
+  .ourVisionTitle{
+    width: 50% !important;
+  }
+
+  .howItWorkssPic2{
+    display: none;
+  }
+
+  .roadmapMobile{
+    display: none;
+  }
+
+  .eps{
+    margin-left: 7%;
+  }
+
+  
+
+  .howItWorksPic{
+    margin-top:50px;
+    width: 70%;
+  }
+
+  .howItWorksText{
+    position:relative;
+  top: -110px;
+  }
+  .modal-title{
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+
+
+.navbar-light .navbar-toggler-icon {
+  background: none !important;
+}
+
+.navbar-light .navbar-toggler-icon :active{
+  background-image: url("./images1/closeIcon.png") !important;
+}
+
+.btn-close{
+  background-image: url("./images1/closeIcon.png") !important;
+  background-size: 50px !important;
+  height: 100px !important;
+  width: 100px !important;
+}
+
+.navbar-light .navbar-toggler,.navbar-light .navbar-toggler:focus {
+  background: url("./images1/closeIcon.png")  ;
+  border:0;
+  color:transparent;
+  height: 55px;
+  width: 55px;
+  transition: box-shadow 0.8s ease-in-out !important;
+}
+
+.navbar-toggler.collapsed{
+  background: url("./images1/menuIcon.png") !important  ;
+}
+
+
+
+.howItWorksText{
+  
+  text-align:center;
+  font-family: 'Zen Maru Gothic Medium', sans-serif !important;
+  font-size: 14pt;
+}
+
+.howItWorksTitle{
+  margin-bottom: -150px;
+}
+
+
+
+.navbar{
+  background: linear-gradient(180deg,rgba(255,255,255,0.9) 60% , rgba(255,255,255,0));
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.nav-link{
+  text-align: center;
+  font-size: 16pt;
+  cursor: pointer;
+  color: black !important;
+  height: 50px;
+}
+
+.nav-link:hover, .navbar-light .navbar-nav .nav-link.active{
+  font-weight: bold;
+  background-image: url("./images1/bubble.svg");
+  background-repeat: no-repeat;
+  background-size: 10px;
+  background-position: bottom center;
+}
+
+.navbar-brand{
+  padding-right: 40px;
+  width: 110px;
+}
+
+.modal-header{
+  border-bottom: 0 !important;
+  margin-bottom: -20px;
+}
+
+.modal-content{
+  background-color: rgba(40, 18, 0, 0.7) !important;
+  border: 0 !important;
+  color:white;
+  text-align: center;
+  width: 100%;
+  padding-top: -200px;
+}
+
+.sectionText{
+  margin-left: 4%;
+  padding-top: 5%;
+  font-size: 18pt;
+  text-align: justify;
+  font-family: 'Zen Maru Gothic Medium', sans-serif !important;
+}
+
+#footer{
+  background-color: #032626 !important;
+  margin-top:100px !important;
+  color: white;
+  font-weight: bold;
+  font-size: 14pt;
+  padding-top: 2%;
+  padding-left:2%;
+  padding-bottom: 2%;
+}
+
+.footerTitle{
+  display: flex;
+  width: 100%;
+  font-size: 20pt;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.link{
+  cursor: pointer;
+}
+
+.copyrightSentence{
+  font-size: 12pt;
+  font-weight: lighter;
+  padding-right:5%;
+}
+
+.pwMobile{
+  display: none;
+  position: relative;
+  top: -100px;
+  bottom: -100px;
+}
+
+
+
+.communityTitle{
+  width: 28%;
+}
+
+.row{
+  margin: auto !important;
+}
+
+a{
+  color: black !important;
+  text-decoration: none !important;
+}
+
+
+
+.sliderimg{
+  width: 100%;
+  height: 20%;
+  object-fit: cover;
+}
+.bebas {
+ 
+    font-family: 'Bebas Neue';font-size: 10px;
+    
+}
+
+.bebas1 {
+ 
+    padding-left: 500px;
+
+}
+
+.wid2{
+width: 50%;
+}
+.bg{
+background-color: white;
+}
+
+.col1{
+font-size: 10px;
+
+font-family: 'Bebas Neue';
+   }
+ .col2{
+   font-size: 50px;
+
+   font-family: 'Bebas Neue';
+ }
+ .col3{
+
+  font-size: 80px;
+  color: #abe62e;
+
+  font-family: 'Bebas Neue';
+}
+
+.col4{
+
+  font-family: 'Bebas Neue';
+  font-size: 20px;
+  color: #e68805;
+}
+b{
+  color: #abe62e;
+  }
+  .img{
+    height: 100px;
+    width: 100px;
+  }
+  
+  .img2{
+    height: 110px;
+    width: 130px;
+  }
+  .orange{
+    color: orange;
+  }

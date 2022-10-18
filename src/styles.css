@@ -1,0 +1,20 @@
+.sliderimg{
+    width: 100%;
+    height: 20%;
+    object-fit: cover;
+  }
+ .bebas {
+   
+      font-family: 'Bebas Neue';font-size: 22px;
+  
+}
+
+.wid2{
+  width: 50%;
+}
+.bg{
+  background-color: white;
+}
+b{
+color: #abe62e;
+}

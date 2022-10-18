@@ -1,0 +1,27 @@
+
+<div id="community" className='pwMobile'   >
+          <div align="center">
+          <div ><h1 className='col2'>TOTAL PEOPLE SUPPORTING US</h1></div>
+     <div align="center" className='tex'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Euismod aliquet <br/> aliquam eu eget lacus. Malesuada lectus urna et</div>
+         
+  <table >
+     <tr>
+    <th className='col1'><i class="fa fa-users"></i></th>
+    <th className='col1'><Icon icon="fa-brands:kickstarter-k" rotate={2} hFlip={true} /></th>
+    <th className='col1'><i class="fa fa-line-chart"></i></th>
+    
+  </tr>
+  <tr>
+    <h1 className='col4'>USERS</h1>
+    <th className='col4'>KICKSTARTER</th>
+    <th className='col4'>INVESTED</th>
+  </tr>
+  <tr>
+    <th className='col3'>1000+</th>
+    <th className='col3'>100K+</th>
+    <th className='col3'>$100K</th>
+  </tr>
+  
+   </table>
+
+            </div>
